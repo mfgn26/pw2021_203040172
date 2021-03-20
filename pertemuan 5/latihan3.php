@@ -10,9 +10,9 @@
 
 <?php
 $mahasiswa = [
-    ["Andi Rahman Hakim", "203040122", "TIF", "acilliittle166@gmail.com"],
-    ["wuhaoce", "203040152", "TI", "wuhaoce@gmail.com"],
-    ["galih", "203040153", "TM", "galih@gmail.com"]
+    ["Muhammad Fasha G. N.", "203040172", "TIF", "mfashagn@gmail.com"],
+    ["slebeww", "203040152", "TI", "slebew@gmail.com"],
+    ["bibi", "203040153", "TM", "bubu@gmail.com"]
 ];
 ?>
 <!DOCTYPE html>
