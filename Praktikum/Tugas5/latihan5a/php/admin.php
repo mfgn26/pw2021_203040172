@@ -1,6 +1,6 @@
 <?php
 /*
-    Muhammad Fasha Ginting N.
+    Muhammad Fasha Ginting N
     203040172
     Jumat,13.00
 */
